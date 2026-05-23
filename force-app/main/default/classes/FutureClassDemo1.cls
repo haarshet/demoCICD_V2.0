@@ -1,5 +1,6 @@
 public class FutureClassDemo1 {
     //to learn the futureclass
+    // to learn to push the comp to repo
     @future
     public static void futureMethod(){
         system.debug('First future Method');
